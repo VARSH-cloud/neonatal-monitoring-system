@@ -172,7 +172,7 @@ This is a prototype system developed for demonstration and educational purposes.
 ## Contributors
 
 * Team Name: *ZENITH*
-* Team Members: *SUMERA BEGUM,*
+* Team Members: *SUMERA BEGUM H,*
                 *SANJAY JONATH S,*
                 *VARSHINI M,*
                 *LAKSHAN*
