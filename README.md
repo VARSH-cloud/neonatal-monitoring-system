@@ -43,7 +43,7 @@ Sensors → Microcontroller → Data Processing → Backend API → Web Dashboar
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 ### Frontend
 
