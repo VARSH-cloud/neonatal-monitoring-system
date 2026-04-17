@@ -173,8 +173,8 @@ This is a prototype system developed for demonstration and educational purposes.
 
 * Team Name: *ZENITH*
 * Team Members: *SUMERA BEGUM,*
-                *VARSHINI,*
-                *SANJAY JONATH,*
+                *SANJAY JONATH S,*
+                *VARSHINI M,*
                 *LAKSHAN*
 
 ---
