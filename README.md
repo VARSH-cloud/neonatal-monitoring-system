@@ -68,8 +68,8 @@ Sensors → Microcontroller → Data Processing → Backend API → Web Dashboar
 ### Clone Repository
 
 ```bash
-git clone https://github.com/your-username/your-repo-name.git
-cd your-repo-name
+git clone https://github.com/VARSH-cloud/neonatal-monitoring-system/edit/main/README.md
+cd neonatal-monitoring-system
 ```
 
 ---
@@ -89,7 +89,7 @@ npm run dev
 ```
 
 Open in browser:
-`http://localhost:5173`
+`http://localhost:`
 
 ---
 
@@ -106,7 +106,7 @@ python app.py
 Frontend fetches real-time data from:
 
 ```bash
-http://127.0.0.1:5000/babies
+http://
 ```
 
 Example response:
@@ -148,20 +148,20 @@ This is a **prototype system** developed for demonstration and educational purpo
 
 ## Future Enhancements
 
-* 🤖 AI-based apnea prediction
-* 📱 Mobile app integration
-* ☁️ Cloud data storage
-* 🔔 SMS / notification alerts
-* 🧾 Patient history and reports
+* AI-based apnea prediction
+* Mobile app integration
+* Cloud data storage
+* SMS / notification alerts
+* Patient history and reports
 
 ---
 
 ## Contributors
 
 * Team Name: *ZENITH*
-* Team Members: *SUMERA BEGUM*
-                *VARSHINI*
-                *SANJAY JONATH*
+* Team Members: *SUMERA BEGUM,*
+                *VARSHINI,*
+                *SANJAY JONATH,*
                 *LAKSHAN*
 
 ---
