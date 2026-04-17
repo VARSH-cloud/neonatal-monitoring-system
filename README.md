@@ -1,41 +1,41 @@
-# 🍼 Neonatal Sleep Apnea Monitoring System
+# Neonatal Sleep Apnea Monitoring System
 
 A real-time neonatal monitoring system designed to detect sleep apnea in infants using hardware sensors integrated with a web-based dashboard. The system enables continuous tracking of breathing patterns, instant detection of abnormalities, and timely alerts to ensure neonatal safety.
 
 ---
 
-## 🚀 Overview
+## Overview
 
 This project combines **hardware sensing**, **real-time data processing**, and a **modern web dashboard** to monitor multiple infants simultaneously. It provides healthcare professionals with a simple and effective interface to observe breathing patterns and respond quickly to critical situations.
 
 ---
 
-## ✨ Features
+## Features
 
-* 🔴 **Real-Time Monitoring**
+**Real-Time Monitoring**
   Continuous tracking of breathing rate from hardware sensors.
 
-* 👶 **Multi-Baby Tracking**
+**Multi-Baby Tracking**
   Monitor up to 10 infants simultaneously on a single dashboard.
 
-* 🚨 **Apnea Detection & Alerts**
+**Apnea Detection & Alerts**
   Instant alerts (visual + sound) when abnormal breathing is detected.
 
-* 📊 **Live Dashboard**
+**Live Dashboard**
   Clean UI displaying breathing values, status, and system overview.
 
-* 📈 **Data Visualization**
+**Data Visualization**
   Graphs for analyzing breathing trends over time.
 
-* ⚠️ **Priority Highlighting**
+**Priority Highlighting**
   Critical cases are automatically highlighted for immediate attention.
 
-* 🕒 **Last Alert Tracking**
+**Last Alert Tracking**
   Displays time since last apnea event for each infant.
 
 ---
 
-## 🧠 System Architecture
+## System Architecture
 
 ```
 Sensors → Microcontroller → Data Processing → Backend API → Web Dashboard → Alerts
@@ -43,7 +43,7 @@ Sensors → Microcontroller → Data Processing → Backend API → Web Dashboar
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 ### Frontend
 
@@ -63,9 +63,9 @@ Sensors → Microcontroller → Data Processing → Backend API → Web Dashboar
 
 ---
 
-## ⚙️ Installation & Setup
+## Installation & Setup
 
-### 1️⃣ Clone Repository
+### Clone Repository
 
 ```bash
 git clone https://github.com/your-username/your-repo-name.git
@@ -74,7 +74,7 @@ cd your-repo-name
 
 ---
 
-### 2️⃣ Install Frontend Dependencies
+### Install Frontend Dependencies
 
 ```bash
 npm install
@@ -82,18 +82,18 @@ npm install
 
 ---
 
-### 3️⃣ Run Frontend
+### Run Frontend
 
 ```bash
 npm run dev
 ```
 
-👉 Open in browser:
+Open in browser:
 `http://localhost:5173`
 
 ---
 
-### 4️⃣ Run Backend (Flask)
+### Run Backend (Flask)
 
 ```bash
 python app.py
@@ -101,7 +101,7 @@ python app.py
 
 ---
 
-## 🔌 API Integration
+## API Integration
 
 Frontend fetches real-time data from:
 
@@ -122,7 +122,7 @@ Example response:
 
 ---
 
-## 🧪 Demo Features
+## Demo Features
 
 * Simulated real-time data using dataset
 * Alert triggering on low breathing values
@@ -130,7 +130,7 @@ Example response:
 
 ---
 
-## 🎯 Use Case
+## Use Case
 
 This system is designed for:
 
@@ -140,13 +140,13 @@ This system is designed for:
 
 ---
 
-## ⚠️ Note
+## Note
 
 This is a **prototype system** developed for demonstration and educational purposes. It is not intended for direct clinical use without further validation and regulatory approval.
 
 ---
 
-## 🏆 Future Enhancements
+## Future Enhancements
 
 * 🤖 AI-based apnea prediction
 * 📱 Mobile app integration
@@ -156,18 +156,22 @@ This is a **prototype system** developed for demonstration and educational purpo
 
 ---
 
-## 👨‍💻 Contributors
+## Contributors
 
-* Team Members: *[Add your names here]*
+* Team Name: *ZENITH*
+* Team Members: *SUMERA BEGUM*
+                *VARSHINI*
+                *SANJAY JONATH*
+                *LAKSHAN*
 
 ---
 
-## 📌 License
+## License
 
 This project is open-source and available for educational and research purposes.
 
 ---
 
-## 💡 Tagline
+## Tagline
 
 **Ensuring infant safety through real-time monitoring and intelligent alerts.**
