@@ -1,4 +1,4 @@
-# Neonatal Sleep Apnea Monitoring System
+# SMART WEARABLE NEONATAL APNEA DETECTOR WITH PREDICTIVE ANALYSIS
 
 Neonatal apnea is a life‑threatening condition in which breathing stops for several seconds, especially in premature infants. Early detection can prevent serious complications or death.
 A real-time neonatal monitoring system designed to detect sleep apnea in infants using hardware sensors integrated with a web-based dashboard. The system enables continuous tracking of breathing patterns, instant detection of abnormalities, and timely alerts to ensure neonatal safety.
